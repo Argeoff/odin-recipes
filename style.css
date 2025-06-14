@@ -1,12 +1,13 @@
 body {
     background-color: #eee;
     font-family: Helvetica, sans-serif;
+    font-size: 1.8vw;
 }
 
 .outer-border {
     border: 8px solid #FFFAA0;
     border-radius: 20px;
-    margin: 32px 48px;
+    margin: 32px 16px;
 }
 
 .homecard {
@@ -16,9 +17,9 @@ body {
 
 .inner-card {
     background-color: #A7C7E7;
-    margin: 32px 48px;
-    padding: 16px;
     border-radius: 20px;
+    margin: 32px 16px;
+    padding: 16px;    
 }
 
 h1 {
@@ -26,7 +27,7 @@ h1 {
 }
 
 img {
-    width: 65%;
+    width: 40vw;
     height: auto;
     margin: 0 auto;
 }
