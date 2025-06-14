@@ -24,3 +24,9 @@ body {
 h1 {
     margin: 10px 0 10px 0;
 }
+
+img {
+    width: 65%;
+    height: auto;
+    margin: 0 auto;
+}
